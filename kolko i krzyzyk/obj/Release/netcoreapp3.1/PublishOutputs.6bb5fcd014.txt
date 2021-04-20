@@ -1,0 +1,5 @@
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Release\netcoreapp3.1\publish\kolko i krzyzyk.exe
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Release\netcoreapp3.1\publish\kolko i krzyzyk.dll
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Release\netcoreapp3.1\publish\kolko i krzyzyk.deps.json
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Release\netcoreapp3.1\publish\kolko i krzyzyk.runtimeconfig.json
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Release\netcoreapp3.1\publish\kolko i krzyzyk.pdb

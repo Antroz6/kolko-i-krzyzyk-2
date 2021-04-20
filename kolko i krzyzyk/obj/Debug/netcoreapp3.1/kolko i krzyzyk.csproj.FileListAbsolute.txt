@@ -1,0 +1,16 @@
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Debug\netcoreapp3.1\kolko i krzyzyk.exe
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Debug\netcoreapp3.1\kolko i krzyzyk.deps.json
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Debug\netcoreapp3.1\kolko i krzyzyk.runtimeconfig.json
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Debug\netcoreapp3.1\kolko i krzyzyk.runtimeconfig.dev.json
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Debug\netcoreapp3.1\kolko i krzyzyk.dll
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\bin\Debug\netcoreapp3.1\kolko i krzyzyk.pdb
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.csprojAssemblyReference.cache
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko_i_krzyzyk.Form1.resources
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.csproj.GenerateResource.cache
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.AssemblyInfoInputs.cache
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.AssemblyInfo.cs
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.dll
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.pdb
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko i krzyzyk.genruntimeconfig.cache
+C:\Users\mkuba\source\repos\kolko i krzyzyk\kolko i krzyzyk\obj\Debug\netcoreapp3.1\kolko_i_krzyzyk.Form2.resources
